@@ -1,4 +1,4 @@
-package problemsolving;
+package problemsolving.stringproblems;
 
 public class ReplaceASCII {
     public static void main(String[] args) {
